@@ -87,24 +87,18 @@
                         <li><a href="">Xem thêm</a></li>
                     </ul>
                 </div>
+                
                 <div class="col-12 col-md-6 col-lg-4 col-xl-3">
                 <ul class="menu-footer">
-                        <li><a href="">Giới thiệu công ty</a></li>
-                        <li><a href="">Tuyển dụng</a></li>
-                        <li><a href="">Góp ý, khiếu nại</a></li>
-                        <li><a href="">Tìm cửa hàng</a></li>
-                        <li><a href="">Xem thêm</a></li>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3930.099256655871!2d105.72256447407683!3d9.92569127431091!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31a08b451d4ecc4d%3A0xb91015721d18e909!2sFPT%20Shop!5e0!3m2!1svi!2s!4v1709816513523!5m2!1svi!2s" width="100%" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </ul>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 col-xl-3">
                 <ul class="menu-footer">
-                        <li><a href="">Liên hệ</a></li>
-                        <li><a href="">Quà tặng</a></li>
-                        <li><a href="">Lịch sử mua hàng</a></li>
-                        <li><a href="">Chính sách bảo hành</a></li>
-                        <li><a href="">Xem thêm</a></li>
+                     
                     </ul>
                 </div>
+            </div>
             </div>
 
 
