@@ -5,7 +5,7 @@
  <h2 class="title-section"> Sản Phẩm Nè</h2> 
  <div class="row">
      <?php
-     for ($i = 0; $i < 12; $i++) :
+     for ($i = 0; $i < 8; $i++) :
      ?>
          <div class="col-12 col-md-6 col-lg-4 col-xl-3">
              <div class="card mb-4">
