@@ -14,7 +14,7 @@ include 'particals/header.php';
         <div class="row">
             <div class="col-12 col-lg-6">
                 <div class="box-img">
-                    <img src="assets/images/product_3.jpg" alt="">
+                    <img src="assets/images/product_1.jpg" alt="">
                 </div>
             </div>
             <div class="col-12 col-lg-6">

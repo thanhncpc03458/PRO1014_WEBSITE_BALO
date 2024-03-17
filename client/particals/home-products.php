@@ -11,9 +11,9 @@
              <div class="card mb-4">
                  <img src="assets/images/product_1.jpg" class="card-img-top" alt="...">
                  <div class="card-body">
-                     <h5 class="card-title">Card title</h5>
-                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                     <a href="#" class="btn btn-primary">Go somewhere</a>
+                     <h5 class="card-title">Sản Phẩm 1</h5>
+                     <p class="card-text">Sản phẩm đẹp có nhiều sự lựa chọn</p>
+                     <a href="single-product.php" class="btn btn-primary">Xem Chi Tiết</a>
                  </div>
              </div>
          </div>
